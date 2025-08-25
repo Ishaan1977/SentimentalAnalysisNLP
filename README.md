@@ -13,9 +13,6 @@ A **Gaussian Naive Bayes (GaussianNB)** model is trained to classify reviews as 
 
 ---
 
-
----
-
 ## 🛠️ Setup  
 1. Clone the repository  
    ```bash
